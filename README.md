@@ -1,5 +1,4 @@
-# What is Easy to Git?
-
+<h1 id="main-title">What is Easy to Git?</h1>
 - Easy to Git is an open-source project that offers many ways to get started with Git and GitHub
 - More specifically, the master branch of this project is the code for www.easytogit.com where you can see the results of your contributions
 
